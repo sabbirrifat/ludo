@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "814557495419",
+    "project_id": "ludo-913ff",
+    "storage_bucket": "ludo-913ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814557495419:android:cebb03e2d51c3be63aa2de",
+        "android_client_info": {
+          "package_name": "com.ludozindahay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814557495419-jqphirjm2r2kvlfsk6bsn9ma3i1rhc29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpb1dcYjEVE6Lt7nt5s4vSYm4eHtEbO44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814557495419-jqphirjm2r2kvlfsk6bsn9ma3i1rhc29.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
